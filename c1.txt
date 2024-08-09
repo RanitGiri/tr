@@ -1,0 +1,11 @@
+7c1.txt , Hello! this is rg . 
+:q!
+q
+
+::x
+
+	:wq
+
+
+
+
